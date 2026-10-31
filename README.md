@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hey, I'm Shashwat Shukla 👋
 
-<!--
-**shashwatdev01/shashwatdev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### First-Year B.Tech CSE Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+📍 Lucknow, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student passionate about technology, software development, and solving real-world problems.
+
+### 🚀 About Me
+- 🎓 First-year B.Tech Computer Science student
+- 💻 Learning C, Java and Python
+- 🌱 Exploring AI, GIS and Open Source
+- 🛰️ Working on real-world problem-solving projects
+- 🤝 Interested in hackathons and developer communities
+
+### 🛠️ Technologies & Tools
+- C
+- Java
+- Python
+- Streamlit
+- Git & GitHub
+
+### 🌍 Featured Project
+
+**JAL-DRISHTI — SIH26015**
+
+AI-powered geospatial decision-support prototype for watershed development.
+
+🔗 [View Project](https://github.com/shashwatdev01/jal-drishti)
+
+### 🎯 Current Goals
+- Strengthen programming fundamentals
+- Build meaningful projects
+- Explore AI and Cloud technologies
+- Participate in hackathons and open-source communities
+
+### 🤝 Connect With Me
+- GitHub: [@shashwatdev01](https://github.com/shashwatdev01)
+- LinkedIn: Add your LinkedIn profile URL here
+
+---
+*Always learning. Always building.* 🚀
