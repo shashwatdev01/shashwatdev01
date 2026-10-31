@@ -26,7 +26,7 @@ I'm a Computer Science student passionate about technology, software development
 
 AI-powered geospatial decision-support prototype for watershed development.
 
-🔗 [View Project](https://github.com/shashwatdev01/jal-drishti)
+🔗 [View Project](https://github.com/shashwatdev01/jal-drishtri)
 
 ### 🎯 Current Goals
 - Strengthen programming fundamentals
